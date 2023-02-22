@@ -1,0 +1,10 @@
+This is a test file for the US Declaration of Independence PDF.
+
+The following states should have the listed signers:
+Georgia: ['Button Gwinnett', 'Lyman Hall', 'George Walton']
+North Carolina: ['William Hooper', 'Joseph Hewes', 'John Penn']
+South Carolina: ['Edward Rutledge', 'Thomas Heyward, Jr.', 'Thomas Lynch, Jr.', 'Arthur Middleton']
+Massachusetts: ['John Hancock', 'Samuel  Adams', 'John  Adams', 'Robert Treat Paine', 'Elbridge Gerry']
+Maryland: ['Samuel Chase', 'William Paca', 'Thomas  Stone', 'Charles Carroll of Carrollton']
+New  Hampshire: ['Matthew Thornton']
+
